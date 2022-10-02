@@ -1,8 +1,8 @@
 <h2 align="left">Hello, I'm Alexandre Fonseca!</h2> 
 
-- 💼 I'm a Mechanical Engineer and a Full-Stack Dev
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning JavaScript, NodeJS, ReactJS, APIs and TypeScript
+- 💼 Mechanical Engineer and Full-Stack Dev
+- 🔭 Working on building my portfolio
+- 🌱 Learning JavaScript, NodeJS, ReactJS, APIs and TypeScript
 - ⚡ More at ... (Personal Website Under Construction)
 
 <h2 align="left">💻 Tech Skills</h2>
