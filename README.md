@@ -1,16 +1,16 @@
 <h2 align="left">Hello, I'm Alexandre Fonseca!</h2> 
 
-- 💼 Full Stack Dev and Mechanical Engineer
-- 🔭 Currently building my portfolio
-- 🌱 Learning JavaScript, Node.js, React.js, APIs and TypeScript
+- 💼 Front-End Dev and Mechanical Engineer
+- 🔭 Currently building new projects
+- 🌱 Studying Front-End development with React.js and TypeScript
 - ⚡ More at ... (Personal Website Under Construction)
 
 <h2 align="left">💻 Tech Skills</h2>
 
 <div style="display: inline_block">
-  <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp
-  <img align="center" title="React.js" alt="ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp
-  <img align="center" title="Node.js" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp
+  <img align="center" title="React.js" alt="React.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp
+  <img align="center" title="TypeScript" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp  
+  <img align="center" title="Node.js" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp
   <img align="center" title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"">&nbsp
   <img align="center" title="HTML5" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp
   <img align="center" title="CSS3" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
