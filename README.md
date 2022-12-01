@@ -1,6 +1,6 @@
 <h2 align="left">Hello, I'm Alexandre Fonseca!</h2> 
 
-- 💼 Volunteer Front-End Dev @ Cosmos and Mechanical Engineer
+- 💼 Volunteer Front-End Dev @ **[Cosmos](https://github.com/Cosmos-Social)** and Mechanical Engineer
 - 🔭 Currently building new projects
 - 🌱 Studying Front-End development with React.js and TypeScript
 - ⚡ More at ... (Personal Website Under Construction)
