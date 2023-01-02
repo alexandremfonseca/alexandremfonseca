@@ -1,17 +1,16 @@
 <h2 align="left">Hello, I'm Alexandre Fonseca!</h2> 
 
-- 💼 Volunteer Front-End Dev @ **[Cosmos](https://github.com/Cosmos-Social)** and Mechanical Engineer
+- 💼 Back-End Dev and Mechanical Engineer
 - 🔭 Currently building new projects
-- 🌱 Studying Front-End development with React.js and TypeScript
+- 🌱 Studying Back-End development with Laravel
 - ⚡ More at my **[LinkedIn](https://www.linkedin.com/in/alexandremucarzelfonseca/)**
 
 <h2 align="left">💻 Tech Skills</h2>
 
 <div style="display: inline_block">
-  <img align="center" title="React.js" alt="React.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp
-  <img align="center" title="TypeScript" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp  
-  <img align="center" title="Node.js" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp
-  <img align="center" title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"">&nbsp
+  <img align="center" title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">&nbsp
+  <img align="center" title="React.js" alt="React.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp  
+  <img align="center" title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp
   <img align="center" title="HTML5" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp
   <img align="center" title="CSS3" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
