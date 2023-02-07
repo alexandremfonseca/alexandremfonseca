@@ -1,15 +1,14 @@
 <h2 align="left">Hello, I'm Alexandre Fonseca!</h2> 
 
-- 💼 Back-End Dev and Mechanical Engineer
-- 🔭 Currently building new projects
-- 🌱 Studying Back-End development with Laravel
+- 💼 Back-End Dev @ Atual Card and Mechanical Engineer
+- 🌱 Studying Full-Stack development with PHP and JavaScript
 - ⚡ More at my **[LinkedIn](https://www.linkedin.com/in/alexandremucarzelfonseca/)**
 
 <h2 align="left">💻 Tech Skills</h2>
 
 <div style="display: inline_block">
-  <img align="center" title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">&nbsp
-  <img align="center" title="React.js" alt="React.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp  
+  <img align="center" title="PHP" alt="PHP" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">&nbsp
+  <img align="center" title="JavaScript" alt="JavaScript" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">&nbsp
   <img align="center" title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp
   <img align="center" title="HTML5" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp
   <img align="center" title="CSS3" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
