@@ -1,7 +1,7 @@
 <h2 align="left">Hello, I'm Alexandre Fonseca!</h2> 
 
-- 💼 Back-End Dev @ Atual Card and Mechanical Engineer
-- 🌱 Studying Full-Stack development with PHP and JavaScript
+- 💼 Backend Dev @ Atual Card and Mechanical Engineer
+- 🌱 Working with PHP and JavaScript
 - ⚡ More at my **[LinkedIn](https://www.linkedin.com/in/alexandremucarzelfonseca/)**
 
 <h2 align="left">💻 Tech Skills</h2>
